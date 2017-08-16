@@ -1,6 +1,6 @@
 {
-  "name": "__name__",
-  "description":"__description__",
+  "name": "lurk_bot",
+  "description":"A bot that lurks",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "bundle exec ruby bot.rb",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": 'https://github.com/__github_account__/__name__'
+    "url": "https://github.com/gduquesnay/lurk_bot"
   },
   "keywords": [
     "green-bot",
@@ -16,7 +16,7 @@
     "bot",
     "bashbot"
   ],
-  "author": "__author__",
+  "author": "Gordon",
   "license": "MIT",
   "version": "0.1.0"
 }

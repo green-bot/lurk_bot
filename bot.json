@@ -1,27 +1,22 @@
 [{
   "default_cmd": "npm start",
-  "default_path": "./node_modules/__name__",
+  "default_path": "./node_modules/lurk_bot",
   "default_settings": [
    {
-      "name": "PROMPT_1",
-      "value": "Change me to change prompt 1",
+      "name": "PATTERN",
+      "value": "A pattern",
       "type": "text"
     },
     {
-      "name": "PROMPT_2",
-      "value": "Change me to change prompt 2",
-      "type": "text"
-    },
-    {
-      "name": "SIGNATURE",
-      "value": "Thank you, you can visit us on the web at http://www.green-bot.com",
+      "name": "COMMAND",
+      "value": "A command",
       "type": "text"
     }
   ],
-  "desc": "__description__",
+  "desc": "A bot that lurks",
   "icon_class": "information",
-  "name": "__name__",
+  "name": "lurk_bot",
   "owner_cmd": "",
-  "short_desc": "__description__",
-  "repo_link": "https://github.com/__github_account__/__name__"
+  "short_desc": "A bot that lurks",
+  "repo_link": "https://github.com/gduquesnay/lurk_bot"
 }]
